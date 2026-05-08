@@ -56,8 +56,4 @@ Interface personalizada focada em:
 
 ## 🧰 Atualização/Mudanças na RussoStyle UI
 
-por enquanto não há mudanças para serem citadas.
-
-
-
-
+- Número da versão da RussoStyle UI alterada para: 0.9.1
