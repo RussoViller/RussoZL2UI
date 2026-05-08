@@ -1,4 +1,4 @@
-## > 👑RussoStyle UI V0.8👑 <
+## > 👑RussoStyle UI V0.9👑 <
 
 —
 
@@ -6,7 +6,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=35% shape=15dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=35% shape=22dp
 
 - - -
 
@@ -56,7 +56,7 @@ Interface personalizada focada em:
 
 ## 🧰 Atualização/Mudanças na RussoStyle UI
 
-
+por enquanto não há mudanças para serem citadas.
 
 
 
