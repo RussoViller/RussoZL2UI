@@ -1,4 +1,4 @@
-## > 👑RussoStyle UI V0.9.7👑 <
+## > 👑RussoStyle UI V0.9.8👑 <
 
 —
 
@@ -50,6 +50,7 @@
 
 ...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=35%
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=35%
+...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=35%
 ...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=35%
 
 
@@ -68,11 +69,8 @@ Interface personalizada focada em:
 
 —
 
-## 🧰 Atualização/Mudanças na RussoStyle UI
+## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para versão: 0.9.7!!!😍🔥
+- RussoStyle UI atualizada para versão: 0.9.8!!!😍🔥
 
-- pequena alteração no nome da categoria de downloads + acesso
-direto a pasta de onde se encontra todos os meus Modpacks disponíveis!
-
-- mudança no link do tiktok para funcionar corretamente (troquei duas letras do @, kk)
+- Adição de um novo botão para download de wallpapers animados!
