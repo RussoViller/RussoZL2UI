@@ -1,8 +1,10 @@
-## > 👑RussoStyle UI V1.0.0👑 <
+## 👑 > RussoStyle UI < 👑
+
+### ⚙️ > Versão: 1.0.1 < ⚙️
 
 —
 
-- Página inicial personalizada do RussoViller_ !
+- Página inicial customizada do RussoViller!
 
 - - -
 
@@ -68,25 +70,19 @@
 
 - - -
 
-## 👑 Sobre a RussoStyle UI
+## 👑 Sobre a RussoStyle UI 1.0.1
 
-Interface personalizada focada em:
-
-- Visual limpo
-- Atalhos rápidos do launcher
-- Praticidade
-- Organização
-- Estilo moderno e simples
-- Downloads diretos
+- Visual limpo.
+- Atalhos rápidos do launcher. (alguns ainda chegaram)
+- Praticidade.
+- Organização.
+- Estilo moderno, simples e bonito!
+- Downloads diretos e fáceis (e sempre chegando novidades)!
 
 —
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.0!😍🔥 (09/05/2026 | 13:25)
+- RussoStyle UI atualizada: V1.0.1!😍🔥 (10/05/2026 | 13:57)
 
-- pequena reformulada dentro da categoria: ZalithLauncher2
-
-- mudança no nome do botão da opção de inicialização rápida.
-
-- tamanho da minha foto diminuída em 3%.
+- pequenas mudanças simples
