@@ -1,6 +1,6 @@
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👑 > RussoStyle UI < 👑
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⚙️ > Versão: 1.0.3 < ⚙️
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⚙️ > Versão: 1.0.4 < ⚙️
 
 &nbsp;
 &nbsp;
@@ -71,13 +71,12 @@
 ...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=42%
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
 ...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
-...button-outlined text="MobileGlues V1.3.4" event="url {https://github.com/MobileGL-Dev/MobileGlues-release/releases/tag/V1.3.4}" width=42%
 
 ...column-end
 
 - - -
 
-## 👑 Sobre a RussoStyle UI 1.0.3
+## 👑 Sobre a RussoStyle UI 1.0.4
 
 - Visual limpo.
 - Atalhos rápidos do launcher. (alguns ainda chegaram)
@@ -90,10 +89,6 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada: V1.0.3!😍🔥 (10/05/2026 | 23:42)
+- RussoStyle UI atualizada: V1.0.4!😍🔥 (11/05/2026 | 2:57)
 
-- Adicionado o link do meu canal do YouTube!
-
-- Centralização dos botões da categoria de downloads.
-
-- Centralização dos títulos: 👑 > RussoStyle UI < 👑 / ⚙️ > Versão: 1.0.3 < ⚙️
+- Removido o botão de download do Mobile Glues
