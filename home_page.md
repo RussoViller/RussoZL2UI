@@ -1,4 +1,4 @@
-## 👑 > RussoStyle UI | v1.0.8 < 👑
+## 👑 > RussoStyle UI | v1.1.0 < 👑
 
 &nbsp;
 &nbsp;
@@ -73,6 +73,7 @@
 ...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=42%
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
 ...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
+...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=42%
 ...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=42%
 
 ...column-end
@@ -92,6 +93,6 @@
 
 ## 🧰 Atualizações/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.0.8!😍🔥 (14/05/2026 | 18:35)
+- RussoStyle UI atualizada para: v1.1.0!😍🔥 (15/05/2026 | 2:51)
 
-- Centralização da minha foto
+- Adicionado o botão para download da minha texturas
