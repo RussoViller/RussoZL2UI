@@ -1,17 +1,17 @@
-## 👑 > RussoStyle UI | v1.2.0 < 👑 
+## 👑 > RussoStyle UI | v1.3.0 < 👑 
 
 **📝 > Versão do Launcher da UI: 2.4.4 < 📝**
 
 &nbsp;
 &nbsp;
 
-## * Página inicial customizada do RussoViller!
+## • Página inicial customizada do RussoViller!
 
 - - -
 
 ...column-start horizontal=Center
 
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=29% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=18dp
 
 ...column-end
 
@@ -54,15 +54,33 @@
 
 ## Opções de atalho do launcher:
 
-**⚡ Inicialização Rápida**
+&nbsp;
 
-...button text="🚪 Entrar no jogo 🚪" event="launch_game" width=99% shape=20dp
+**⚡ Inicialização Rápida da versão selecionada!**
+
+...button-outlined text="🚪 Entrar na versão selecionada 🚪" event="launch_game" width=99% shape=20dp
+
+—
+
+**💻 Entrar Direto em Servers que eu jogo!**
+
+&nbsp;
+
+...column-start vertical=spacedBy(10)
+
+...button-outlined text="🌎 MCPvP Club • Somente Original" event="launch_game {server=mcpvp.club}" width=55% shape=20dp
+
+...button-outlined text="🍩 DonutSMP • Somente Original" event="launch_game {server=donutsmp.net}" width=55% shape=20dp
+
+...button-outlined text="🔥 Balacobaco • Original e Pirata" event="launch_game {server=balacobaco.net}" width=55% shape=20dp
+
+...column-end
 
 —
 
 ## 🛠 Compartilhamento de Logs
 
-...button text="📄 Compartilhar Logs do Jogo 📃" event="share_game_log" width=99% shape=20dp
+...button-outlined text="📄 Compartilhar Logs da última sessão da versão selecionada 📃" event="share_game_log" width=99% shape=20dp
 
 - - -
 
@@ -72,36 +90,32 @@
 
 ...column-start horizontal=Center
 
-...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=42%
-...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=42%
-...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=42%
-...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=42%
-...button-outlined text="Minhas Shaders" event="url {https://www.mediafire.com/folder/xce4845w8b1wb/SHADERS}" width=42%
-...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=42%
+...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=46%
+...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=46%
+...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=46%
+...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=46%
+...button-outlined text="Minhas Shaders" event="url {https://www.mediafire.com/folder/xce4845w8b1wb/SHADERS}" width=46%
+...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=46%
 
 ...column-end
 
 - - -
 
-## 👑 Sobre a RussoStyle UI!
+## 👑 Tudo Sobre a RussoStyle UI!
 
-- Visual limpo.
-- Atalhos rápidos do launcher. (alguns ainda chegaram)
+- Visual limpo e moderno.
+- Atalhos rápidos do launcher!
 - Praticidade.
 - Organização.
-- Estilo moderno, simples e bonito!
-- Downloads diretos e fáceis (e sempre chegando novidades)!
+- Estilo simples e bonito para agradar a todos!
+- Downloads diretos e fáceis via mediafire!
 
-—
+---
 
-## 🧰 Atualizações/Adições na RussoStyle UI
+## 🧰 Mudanças/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.2.0!😍🔥 (20/05/2026 | 11:12)
+- RussoStyle UI atualizada para: v1.3.0!😍🔥 (21/05/2026 | 02:20)
 
-- Readição da opção de inicialização rápida na categoria de atalhos do launcher.
+- Adicionado a opção para entrar direto nos servidores que eu jogo!
 
-- Adição da opção de compartilhar logs do jogo: Versão do ZL2 2.4.4+
-
-- Adicionado o botão para download das Minhas Shaders personalizadas.
-
-- Outras mudanças mínimas.
+- pequenas mudanças nos botões e em nomes de algumas categorias.
