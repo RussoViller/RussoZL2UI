@@ -1,6 +1,6 @@
-## 👑 > RussoStyle UI | v1.3.1 < 👑 
+## 👑 > RussoStyle UI | v1.3.4 < 👑 
 
-**📝 > Versão do Launcher da UI: 2.4.4 < 📝**
+**📝 > UI Atualizada para ZL2: 2.4.4 < 📝**
 
 &nbsp;
 &nbsp;
@@ -9,11 +9,7 @@
 
 - - -
 
-...column-start horizontal=Center
-
-...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=30% shape=20dp
-
-...column-end
+...image url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/1%20Sem%20T%C3%ADtulo_20260405012011.png" width=25% shape=20dp
 
 - - -
 
@@ -43,10 +39,12 @@
 
 ...button-filled-tonal  text="> Verificar atualização do ZL2 <"  event="check_update"
 
-...image  url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/2e8a1aeb26b031f5a33be01891eb1079cdbad8d3/190403391.png" width=22% shape=12dp
+...image  url="https://raw.githubusercontent.com/RussoViller02/russostyle-assets/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
 ...column-end
+
 &nbsp;
+
 ...button-outlined text="* Site oficial do ZalithLauncher2 (CN)"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
 ...button-outlined text="* Link do ZalithLauncher2 no GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
@@ -60,7 +58,7 @@
 
 ...button-outlined text="🚪 Entrar na versão selecionada 🚪" event="launch_game" width=99% shape=20dp
 
-—
+•
 
 **💻 » Entrar Direto em Servers que eu jogo!**
 
@@ -76,7 +74,7 @@
 
 ...column-end
 
-—
+•
 
 ## 🛠 » Compartilhamento de Logs
 
@@ -84,17 +82,28 @@
 
 - - -
 
-## 🗃️ » Alguns Downloads:
+## 🗃️ » Meus Downloads:
 
--
+&nbsp;
 
 ...column-start horizontal=Center
 
-...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=46%
 ...button-outlined text="Meus Modpacks" event="url {https://www.mediafire.com/folder/9mlq573av86zs/MODPACKS}" width=46%
-...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=46%
 ...button-outlined text="Minha Textura" event="url {https://www.mediafire.com/folder/rptiahkjda0ne/TEXTURAS}" width=46%
 ...button-outlined text="Minhas Shaders" event="url {https://www.mediafire.com/folder/xce4845w8b1wb/SHADERS}" width=46%
+
+...column-end
+
+&nbsp;
+
+## 📦 » Downloads para seu Launcher:
+
+&nbsp;
+
+...column-start horizontal=Center
+
+...button-outlined text="Wallpapers Animados" event="url {https://www.mediafire.com/folder/3mxrzgzwuqyl8/WALLPAPERS+ANIMADOS}" width=46%
+...button-outlined text="Setas Animadas" event="url {https://www.mediafire.com/folder/c0x98hgv4kual/MOUSES+ANIMADOS}" width=46%
 ...button-outlined text="Meu Hud Atualizado" event="url {https://www.mediafire.com/file/ou9q0qa3doyr2vq/RUSSO_HUD_V2.5-POCOF7.json/file}" width=46%
 
 ...column-end
@@ -114,6 +123,12 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-- RussoStyle UI atualizada para: v1.3.1!😍🔥 (24/05/2026 | 16:09)
+• RussoStyle UI atualizada para: v1.3.4!😍🔥 (24/05/2026 | 17:16)
 
-- Reforma nos nomes das categorias.
+› Pequena reforma na categoria de downloads para melhor uso.
+
+› Icone do ZL2 do botão de Verificar Atualização foi atualizada para não atrapalhar tanto na visualização de wallpapers.
+
+› Minha foto no início da página foi mudada para a esquerda para melhorar visualização de wallpapers.
+
+› Outras pequenas mudanças.
