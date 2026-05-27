@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.3.9 « 👑 
+## 👑 » RussoStyle UI | v1.4.0 « 👑 
 
 **📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
 
@@ -89,9 +89,9 @@
 
 ...column-start horizontal=Center
 
-...button-outlined text="Meus Modpacks • GitHub" event="url {https://github.com/RussoViller02/Russo-Modpacks/releases/tag/Modpack}" width=46%
-...button-outlined text="Minhas Textura • GitHub" event="url {https://github.com/RussoViller02/Russo-Textures/releases/tag/Textures}" width=46%
-...button-outlined text="Minhas Shaders • GitHub" event="url {https://github.com/RussoViller02/Russo-Shaders/releases/tag/Shaders}" width=46%
+...button-outlined text="Meus Modpacks • GitHub" event="url {https://github.com/RussoViller/Russo-Modpacks/releases/tag/Modpack}" width=46%
+...button-outlined text="Minhas Textura • GitHub" event="url {https://github.com/RussoViller/Russo-Textures/releases/tag/Textures}" width=46%
+...button-outlined text="Minhas Shaders • GitHub" event="url {https://github.com/RussoViller/Russo-Shaders/releases/tag/Shaders}" width=46%
 
 ...column-end
 
@@ -125,12 +125,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.3.9!😍🔥 (27/05/2026 | 3:54)
+• RussoStyle UI atualizada para: v1.4.0!😍🔥 (27/05/2026 | 13:12)
 
-› Alguns links de Mediafire foram alterados para o GitHub.
-
-› O link de download do Mobile Glues está de volta nessa nova versão da UI.
-
-› Adicionado nome dos locais de download nos nomes dos botões.
-
-› Outras pequenas mudanças.
+› Pequena correção nos links do GitHub.
