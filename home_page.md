@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.4.7 « 👑 
+## 👑 » RussoStyle UI | v1.4.9 « 👑 
 
 **📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
 
@@ -37,10 +37,16 @@
 
 ...row-start horizontal=spacedBy(8)
 
-...button text="> Perfil Do TikTok <"  event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
+...button text="> Perfil Do TikTok <" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
 ...button-filled-tonal text="> Perfil Do YouTube <"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
 
 ...row-end
+
+...column-start horizontal=Center
+
+...button text="📦 > Discord da Comunidade BR do ZL2 < 📦" event="url {https://discord.gg/Zt26qUMty8}"
+
+...column-end
 
 &nbsp;
 
@@ -122,16 +128,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.4.7!😍🔥 (28/05/2026 | 23:51)
+• RussoStyle UI atualizada para: v1.4.9!😍🔥 (29/05/2026 | 15:26)
 
-› Link para baixar setinhas de mouse animadas voltou a funcionar.
-
-› Categoria de Menu Social trocada de lugar com a categoria do ZalithLauncher2.
-
-› Nome da maioria dos botões foram alterados para melhor estética.
-
-› Botão de outros links da categoria Menu Social foi retirado.
-
-› Botão de doações agora tem sua própria Subcategoria.
-
-› Botão de iniciar diretamente a versão selecionada foi removido permanentemente
+› Adicionado botão com link para o server do Discord da Comunidade BRASILEIRA do ZL2!
