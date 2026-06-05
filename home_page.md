@@ -1,6 +1,6 @@
-## 👑 » RussoStyle UI | v1.5.7 « 👑 
+## 👑 » RussoStyleUI | v1.6.0 « 👑 
 
-**📝 » UI Atualizada para ZL2: 2.4.4 « 📝**
+**📝 » Código da UI Atualizada para ZL2: 2.4.5 « 📝**
 
 &nbsp;
 &nbsp;
@@ -50,14 +50,6 @@
 
 &nbsp;
 
-...column-start horizontal=Center
-
-**💲 » Apoie o criador da página para incentivar ele a trazer mais novidades:**
-
-...button-outlined text="💲 » Doações « 💲"  event="url {https://pixgg.com/russoViller02}" width=50%
-
-...column-end
-
 ---
 
 ## 🚖 » Opções de atalho do launcher:
@@ -71,8 +63,6 @@
 ...column-start vertical=spacedBy(10)
 
 ...button-outlined text="🌎 MCPvP Club • Somente Original" event="launch_game {server=mcpvp.club}" width=55% shape=20dp
-
-...button-outlined text="🍩 DonutSMP • Somente Original" event="launch_game {server=donutsmp.net}" width=55% shape=20dp
 
 ...button-outlined text="🔥 Balacobaco • Original e Pirata" event="launch_game {server=balacobaco.net}" width=55% shape=20dp
 
@@ -108,7 +98,6 @@
 
 ...button-outlined text="🖱️ › Setinhas Animadas • Github ‹ 🖱️" event="url {https://github.com/RussoViller/Setinhas-Animadas/releases}" width=54%
 ...button-outlined text="🏞️ › Wallpapers Animados • GitHub ‹ 🏞️" event="url {https://github.com/RussoViller/Wallpapers-For-ZL2/releases}" width=54%
-...button-outlined text="🎮 › Meu Hud Atualizado • GitHub ‹ 🎮" event="url {https://github.com/RussoViller/Russo-HUD-Poco-F7/releases/tag/ZL2-HUD}" width=54%
 
 ...column-end
 
@@ -129,6 +118,16 @@
 
 - - -
 
+...column-start horizontal=Center
+
+**💲 » Apoie o criador da página para incentivar ele a trazer mais novidades:**
+
+...button-outlined text="💲 » Doações « 💲"  event="url {https://pixgg.com/russoViller02}" width=50%
+
+...column-end
+
+---
+
 ## 👑 » Tudo Sobre a RussoStyle UI!
 
 - Visual limpo e moderno.
@@ -142,12 +141,13 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.5.7!😍🔥 (30/05/2026 | 00:11)
+• RussoStyle UI atualizada para: v1.6.0!😍🔥 (05/06/2026 | 3:17)
 
-› Botão para download do Mobile Glues foi removido novamente temporariamente.
+› Botão para download do meu HUD removido, download do HUD
+agora está dentro do Discord da comunidade.
 
-› Adicionado Emojis em mais botões para melhorar a estética da página.
+› Botão de atalho para o Servidor DonutSMP removido.
 
-› Adicionado nova categoria com botões para download direto de plugins para mods.
+› Subcategoria de doação teve a posição alterada e virou Categoria.
 
-› outras pequenas mudanças.
+› Outras pequenas mudanças e adições dentro e fora da página inicial.
