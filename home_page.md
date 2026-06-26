@@ -1,6 +1,6 @@
-## 👑 » RussoStyle UI | v1.6.3 « 👑 
+## 👑 » RussoStyle UI | v1.6.4 « 👑 
 
-**📝 » Código da UI Atualizada para ZL2: 2.4.8 « 📝**
+**📝 » Código da UI Atualizada para ZL2: 2.4.9 « 📝**
 
 &nbsp;
 &nbsp;
@@ -128,7 +128,7 @@
 
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.6.3!
+## 👑 » Tudo Sobre a RussoStyle UI 1.6.4!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -141,4 +141,4 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.6.3!😍🔥 (17/06/2026 | 20:35)
+• RussoStyle UI atualizada para: v1.6.4!😍🔥 (26/06/2026 | 03:50)
