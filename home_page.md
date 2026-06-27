@@ -1,6 +1,6 @@
-## 👑 » RussoStyle UI | v1.6.7 « 👑 
+## 👑 » RussoStyle UI | v1.6.8 « 👑 
 
-**📝 » Código da UI Atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
+**📝 » Código da página atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
 
 &nbsp;
 &nbsp;
@@ -127,7 +127,7 @@
 
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.6.7!
+## 👑 » Tudo Sobre a RussoStyle UI 1.6.8!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -140,6 +140,4 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.6.7!😍🔥 (26/06/2026 | 14:26)
-
-› Remoção do botão de download da minha textura, pois agora ela está disponível através do curseforge.
+• RussoStyle UI atualizada para: v1.6.8!😍🔥 (27/06/2026 | 17:15)
