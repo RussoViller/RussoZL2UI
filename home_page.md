@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.7.0 « 👑 
+## 👑 » RussoStyle UI | v1.7.5 « 👑 
 
 **📝 » Código da página atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
 
@@ -18,7 +18,7 @@
 
 ...column-start horizontal=Center
 
-...button  text="» Verificar atualização do ZL2 «"  event="check_update"
+...button  text="⚙️ › Verificar atualização do ZL2 ‹ ⚙️"  event="check_update"
 
 ...image  url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
@@ -26,8 +26,8 @@
 
 
 
-...button-outlined text="› ZalithLauncher2 • Site Oficial"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
-...button-outlined text="› ZalithLauncher2 • GitHub" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
+...button-outlined text="🔗 › ZalithLauncher2 • Site OFC ‹ 🔗"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
+...button-outlined text="🔗 › ZalithLauncher2 • GitHub ‹ 🔗" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
 - - -
 
@@ -44,7 +44,19 @@
 
 ...column-start horizontal=Center
 
-...button text="📦 > Discord da Comunidade BR do ZL2 < 📦" event="url {https://discord.gg/Zt26qUMty8}"
+...button text="📦 › Discord da Comunidade BR do ZL2 ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
+
+...column-end
+
+&nbsp;
+
+...column-start horizontal=Center
+
+**💲 » Apoie o criador da página para incentivar ele a continuar « 💲**
+
+&nbsp;
+
+...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260718_001900514.png" width=35%
 
 ...column-end
 
@@ -53,20 +65,6 @@
 ---
 
 ## 🚖 » Opções de atalho do launcher:
-
-•
-
-**💻 » Entrar Direto em Servers que eu jogo:**
-
-&nbsp;
-
-...column-start vertical=spacedBy(10)
-
-...button-outlined text="🌎 MCPvP Club • Somente Original" event="launch_game {server=mcpvp.club}" width=55% shape=20dp
-
-...button-outlined text="🔥 Balacobaco • Original e Pirata" event="launch_game {server=balacobaco.net}" width=55% shape=20dp
-
-...column-end
 
 •
 
@@ -115,19 +113,9 @@
 
 ...column-end
 
-- - -
-
-...column-start horizontal=Center
-
-**💲 » Apoie o criador da página para incentivar ele a trazer mais novidades:**
-
-...button-outlined text="💲 » Doações « 💲"  event="url {https://pixgg.com/russoViller02}" width=50%
-
-...column-end
-
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.7.0!
+## 👑 » Tudo Sobre a RussoStyle UI 1.7.5!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -140,6 +128,12 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.7.0! 😍🔥 (09/07/2026 | 18:46)
+• RussoStyle UI atualizada para: v1.7.5! 😍🔥 (18/07/2026 | 01:00)
 
-› Foto principal do dono da página atualizada!
+› Aba de doação atualizada para um QR CODE.
+
+› Local da aba de doação alterado para perto do topo da página inicial.
+
+› Adicionado alguns novos emojis em outros botões.
+
+› Removido os atalhos para entrar direto em servers que jogo (no caso que eu jogava, pois atualmente eu raramente jogo neles)
