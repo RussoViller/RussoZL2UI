@@ -1,4 +1,4 @@
-## 👑 » RussoStyle UI | v1.7.5 « 👑 
+## 👑 » RussoStyle UI | v1.7.6 « 👑 
 
 **📝 » Código da página atualizada para ZL2: 2.4.9 - hotfix1 « 📝**
 
@@ -9,7 +9,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/file_00000000a0bc720e97a297e43f776dc9.png" width=25% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/file_00000000fb70820eb6a665f3b721865a.png" width=30% shape=20dp
 
 - - -
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 👑 » Tudo Sobre a RussoStyle UI 1.7.5!
+## 👑 » Tudo Sobre a RussoStyle UI 1.7.6!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -128,12 +128,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoStyle UI
 
-• RussoStyle UI atualizada para: v1.7.5! 😍🔥 (18/07/2026 | 01:00)
+• RussoStyle UI atualizada para: v1.7.6! 😍🔥 (19/07/2026 | 20:12)
 
-› Aba de doação atualizada para um QR CODE.
-
-› Local da aba de doação alterado para perto do topo da página inicial.
-
-› Adicionado alguns novos emojis em outros botões.
-
-› Removido os atalhos para entrar direto em servers que jogo (no caso que eu jogava, pois atualmente eu raramente jogo neles)
+› Atualizado a foto principal do dono do Launcher.
