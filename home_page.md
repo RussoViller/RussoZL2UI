@@ -1,4 +1,4 @@
-## 👑 » RussoZL2 UI | v1.8.5 « 👑 
+## 👑 » RussoZL2 UI | v1.8.7 « 👑 
 
 **📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
@@ -19,16 +19,23 @@
 
 ...row-start horizontal=spacedBy(8)
 
-...button text="⚫ › Perfil Do TikTok ‹ ⚫" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
-...button-filled-tonal text="🔴 › Perfil Do YouTube ‹ 🔴"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
+...button-filled-tonal text="⚫ › Perfil Do TikTok ‹ ⚫" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
+...button-outlined text="🔴 › Perfil Do YouTube ‹ 🔴"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
 
 ...row-end
 
 ...column-start horizontal=Center
 
-...button text="📦 › Discord da Comunidade BR do ZL2 ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
+...button text="📦 › Discord da minha Comunidade do Zalith ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
 
 ...column-end
+
+...row-start horizontal=spacedBy(8)
+
+...button-outlined text="🌸 › Perfil Do BiliBili ‹ 🌸" event="url {https://b23.tv/oX0suBN}" weight=(1)
+...button-filled-tonal text="⚫ › Minha Página do Patreon ‹ ⚫"  event="url {https://www.patreon.com/RussoViller_?utm_campaign=creatorshare_creator}" weight=(1)
+
+...row-end
 
 &nbsp;
 
@@ -60,7 +67,7 @@
 
 - - -
 
-## 👑 » Tudo Sobre a RussoZL2 UI 1.8.5!
+## 👑 » Tudo Sobre a RussoZL2 UI 1.8.7!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -72,6 +79,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoZL2 UI
 
-• RussoZL2 UI atualizada para: v1.8.5! 😍🔥 (21/07/2026 | 15:40)
+• RussoZL2 UI atualizada para: v1.8.7! 😍🔥 (21/07/2026 | 17:51)
 
-› Removido a categoria para doações.
+› Adicionado o botão para minha página do BiliBili e do Patreon.
